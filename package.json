@@ -1,6 +1,6 @@
 {
   "name": "to-integer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts the given value to an integer. ",
   "main": "index.js",
   "scripts": {
@@ -32,13 +32,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/to-integer.git"
+    "url": "git+https://github.com/gearcase/to-integer.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bubkoo/to-integer/issues"
+    "url": "https://github.com/gearcase/to-integer/issues"
   },
-  "homepage": "https://github.com/bubkoo/to-integer#readme",
+  "homepage": "https://github.com/gearcase/to-integer#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
